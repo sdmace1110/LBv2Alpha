@@ -16,7 +16,7 @@ private const val BASE_URL = "https://api.yelp.com/v3/"
 // Add a log statement
 private const val TAG = "MainActivity"
 // API Key
-private const val API_KEY = "33gfsU_pO7P4h6NsxV75EHhzMSivbTpkrUMae0fn3cpAjvS61hR3JiFmTf7g-FEXxgJaTWqoXebTuMWqTlWVRf9pX_H8IiUEi1_sxh1UxhwhrO_8GRcSbZ8LXK2VYHYx"
+private const val API_KEY = ""
 
 class MainActivity : AppCompatActivity() {
 
